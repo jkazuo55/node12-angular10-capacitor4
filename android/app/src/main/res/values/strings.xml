@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">node12-angular10-capacitor4</string>
+    <string name="title_activity_main">node12-angular10-capacitor4</string>
+    <string name="package_name">com.test.app</string>
+    <string name="custom_url_scheme">com.test.app</string>
+</resources>
